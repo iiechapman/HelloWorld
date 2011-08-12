@@ -4,5 +4,5 @@ System.out.println("Hello World!");
 System.out.println("This is cool!");
 System.out.println("Welcome to the wonderful world of GIT!");
 System.out.println("This was edited on the air!");
-System.out.println("OMG This is amazing!");
+System.out.println("YES This is amazing!");
 }
